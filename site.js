@@ -6,7 +6,7 @@ const SITE = {
   trialDays: 3,                  // أيام التجربة المجانية
   email: 'liveaura0@gmail.com',                     // إيميل الدعم، مثال: 'support@gmail.com'
   handle: '@J_lmbh',             // حسابك (يظهر للتواصل وفي الحقوق)
-  checkoutUrl: '',               // رابط صفحة الدفع من Lemon Squeezy (حطه بعد ما تسوي المنتج)
+  checkoutUrl: 'https://liveaura.lemonsqueezy.com/checkout/buy/78c3c3a0-5971-405b-a3d1-785ae5bc20e4?discount=0',               // رابط صفحة الدفع من Lemon Squeezy (حطه بعد ما تسوي المنتج)
   chromeStoreUrl: '',            // رابط الإضافة في متجر كروم (بعد النشر)
   updated: '2026-11-04',         // تاريخ آخر تحديث للسياسات
 };
